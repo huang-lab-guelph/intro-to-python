@@ -1,0 +1,5 @@
+notebook # The jupyter notebook to explore data and write simple code
+pandas # Manages csv type files and tables
+scipy # Scientific library
+matplotlib # For creating images and graphs
+seaborn # better visualizations
