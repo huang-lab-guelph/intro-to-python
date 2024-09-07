@@ -6,7 +6,7 @@
 
 Open a terminal and go to where you want to keep the repo, then type:
 ```sh
-git clone git@github.com:huang-lab-guelph/intro-to-python.git
+git clone https://github.com/huang-lab-guelph/intro-to-python.git
 ```
 
 ### 2. Installing Python via pyenv and pyenv-virtualenv:
