@@ -100,8 +100,10 @@ we can install all by running (inside the intro-to-python folder)
 pip install -r requirements.txt
 ```
 
-We are now ready. From the notebook we can run
+We are now ready. From the terminal we can run
 
 ```text
 jupyter notebook
 ```
+
+and go to the sessions folder
